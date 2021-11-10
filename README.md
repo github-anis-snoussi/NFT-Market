@@ -1,11 +1,15 @@
-# NFT-Market
+# Basic Sample Hardhat Project
 
-NFT Marketplace on Ethereum (ERC721)
+This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
 
-## Stack used
+Try running some of the following tasks:
 
-- Web App : [Next.js](https://nextjs.org/)
-- Solidity development : [Hardhat](https://hardhat.org/)
-- File Storage : [IPFS](https://ipfs.io/)
-- Ethereum Web Client Library : [Ethers.js](https://docs.ethers.io/v5/)
-- Deployment : [Polygon](https://polygon.technology/)
+```shell
+npx hardhat accounts
+npx hardhat compile
+npx hardhat clean
+npx hardhat test
+npx hardhat node
+node scripts/sample-script.js
+npx hardhat help
+```
