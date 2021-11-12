@@ -13,6 +13,12 @@ This demo demonstrates how:
 - Buyer buys an NFTs and make sure ownership is transfered
 - Seller and Buyer can both see available NFTs and owned NFTs
 
+
+
+https://user-images.githubusercontent.com/33237270/141454560-a7899913-8c51-4e16-a85a-6f1b01c6c337.mp4
+
+
+
 ## Stack used
 
 - Web App : [Next.js](https://nextjs.org/)
