@@ -2,6 +2,17 @@
 
 NFT Marketplace on Ethereum (ERC721)
 
+## Demo
+
+This demo demonstrates how:
+
+- Seller mints an NFT
+- Seller pays the listing fee to have his NFT listed on the marketplace
+- Seller can see his created NFTs
+- Buyer can see available NFTs
+- Buyer buys an NFTs and make sure ownership is transfered
+- Seller and Buyer can both see available NFTs and owned NFTs
+
 ## Stack used
 
 - Web App : [Next.js](https://nextjs.org/)
