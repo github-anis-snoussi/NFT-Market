@@ -1,6 +1,6 @@
 # NFT-Market
 
-NFT Marketplace on Ethereum (ERC721)
+NFT Marketplace on Ethereum
 
 ## Demo
 
@@ -13,9 +13,7 @@ This demo demonstrates how:
 - Buyer buys an NFTs and make sure ownership is transfered
 - Seller and Buyer can both see available NFTs and owned NFTs
 
-
-
-https://user-images.githubusercontent.com/33237270/141454560-a7899913-8c51-4e16-a85a-6f1b01c6c337.mp4
+[![Video Demo](https://img.youtube.com/vi/FKxS5eef0Zo/0.jpg)](https://www.youtube.com/watch?v=FKxS5eef0Zo "Video Demo")
 
 
 
